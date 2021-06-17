@@ -15,7 +15,7 @@ The purpose of this project is to render as many times as possible different pin
 ## API Endpoint Documentation
 | **GET** |  |
 | --- | --- |
-| _/Pins/_ | . Users are able to see pins from different users. Pins contain 'image' and 'description'.
+| _Pins_ | Users are able to see pins from different users. Pins contain 'image' and 'description'.
 
 ## Hierarchy
 ```
