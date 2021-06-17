@@ -11,7 +11,7 @@ The purpose of this project is to render as many times as possible different pin
 
 ### Set Up
 * Fork and clone this repo
-* Open directly from file
+* Open directly from file (index.html)
 
 ### MVP
 * Users can browse on page infinitly looking for the cat to offer a forever home 😻
