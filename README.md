@@ -39,6 +39,8 @@ console.log(error.message);
 ### High Fidelity Wireframes
 ![desktop](https://user-images.githubusercontent.com/20978259/122328567-e9d48980-cefd-11eb-9458-b51a0a4bbffc.png)
 
+[<a href="https://www.loom.com/share/daf04e21d9b34840ae1552214d2c0e5b"> <p>17 June, 2021 - Loom Recording - Watch Video</p> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/daf04e21d9b34840ae1552214d2c0e5b-with-play.gif"> </a>]
+
 ## Authors
 @makeespresso
 
