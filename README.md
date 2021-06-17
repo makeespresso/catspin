@@ -39,7 +39,7 @@ console.log(error.message);
 ### High Fidelity Wireframes
 ![desktop](https://user-images.githubusercontent.com/20978259/122328567-e9d48980-cefd-11eb-9458-b51a0a4bbffc.png)
 
-[<a href="https://www.loom.com/share/daf04e21d9b34840ae1552214d2c0e5b"> <p>17 June, 2021 - Loom Recording - Watch Video</p> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/daf04e21d9b34840ae1552214d2c0e5b-with-play.gif"> </a>]
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/daf04e21d9b34840ae1552214d2c0e5b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Authors
 @makeespresso
