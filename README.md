@@ -19,16 +19,16 @@ The purpose of this project is to render as many times as possible different pin
 
 ## Hierarchy
 ```
-*\ async function getPins() {
-*\ const urlIP = "http://makeespresso.co/Data/pins.json";
-*\ try {
-*\ const apiIp = await axios.get(urlIP);
-*\ let imageArray = apiIp.data;
-*\ return imageArray;
-*\ } catch (error) {
-*\ console.log(error.message);
-*\ }
-*\ }
+async function getPins() {
+const urlIP = "http://makeespresso.co/Data/pins.json";
+try {
+const apiIp = await axios.get(urlIP);
+let imageArray = apiIp.data;
+return imageArray;
+} catch (error) {
+console.log(error.message);
+}
+}
 ```
 
 ## Wireframes
