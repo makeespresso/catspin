@@ -1,4 +1,4 @@
-# "Challenge 1, Infinity Scroll"
+# Challenge 1, Infinity Scroll
 ![banner](https://user-images.githubusercontent.com/20978259/122320033-8cd1d700-ceef-11eb-8d1b-c69a10447521.png)
 
 
