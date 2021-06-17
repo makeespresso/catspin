@@ -19,16 +19,16 @@ The purpose of this project is to render as many times as possible different pin
 
 ## Hierarchy
 
-* \ async function getPins() {
-* \   const urlIP = "http://makeespresso.co/Data/pins.json";
-* \   try {
-    * \ const apiIp = await axios.get(urlIP);
-* \     let imageArray = apiIp.data;
-    * \ return imageArray;
-* \   } catch (error) {
-    * \ console.log(error.message);
-* \   }
-* \ }
+*\async function getPins() {
+*\const urlIP = "http://makeespresso.co/Data/pins.json";
+*\try {
+*\const apiIp = await axios.get(urlIP);
+*\let imageArray = apiIp.data;
+*\return imageArray;
+*\} catch (error) {
+*\console.log(error.message);
+*\}
+*\}
 
 
 ## Wireframes
@@ -37,8 +37,7 @@ The purpose of this project is to render as many times as possible different pin
 ![wireframe](https://user-images.githubusercontent.com/20978259/122319988-77f54380-ceef-11eb-8f0c-bfebc8bea7e1.png)
 
 ## High Fidelity Wireframes
-![mobile](https://user-images.githubusercontent.com/20978259/122324400-b6dac780-cef6-11eb-910c-1f8ca8955206.png)
-
+![desktop](https://user-images.githubusercontent.com/20978259/122328567-e9d48980-cefd-11eb-9458-b51a0a4bbffc.png)
 
 ## Authors
 @makeespresso
