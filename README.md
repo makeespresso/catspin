@@ -33,10 +33,10 @@ console.log(error.message);
 
 ## Wireframes
 
-## Low Fidelity Wireframes
+### Low Fidelity Wireframes
 ![wireframe](https://user-images.githubusercontent.com/20978259/122319988-77f54380-ceef-11eb-8f0c-bfebc8bea7e1.png)
 
-## High Fidelity Wireframes
+### High Fidelity Wireframes
 ![desktop](https://user-images.githubusercontent.com/20978259/122328567-e9d48980-cefd-11eb-9458-b51a0a4bbffc.png)
 
 ## Authors
