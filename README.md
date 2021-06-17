@@ -5,6 +5,10 @@
 ## Project Description:
 The purpose of this project is to render as many times as possible different pins as the user scrolls down 👩🏻‍💻💫. Recreating Pinterest infinity scroll behavior. 📌
 
+
+<a href="https://www.loom.com/share/daf04e21d9b34840ae1552214d2c0e5b"> <p>Challenge 1, Infinity Scroll</p> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/daf04e21d9b34840ae1552214d2c0e5b-with-play.gif"> </a>
+
+
 ### Set Up
 * Fork and clone this repo
 * Open directly from file
@@ -39,7 +43,6 @@ console.log(error.message);
 ### High Fidelity Wireframes
 ![desktop](https://user-images.githubusercontent.com/20978259/122328567-e9d48980-cefd-11eb-9458-b51a0a4bbffc.png)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/daf04e21d9b34840ae1552214d2c0e5b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Authors
 @makeespresso
