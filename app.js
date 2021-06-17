@@ -10,7 +10,6 @@ async function getPins() {
     console.log(error.message);
   }
 }
-
 async function loadImages(numImages = 48) {
   let dataArray = await getPins();
   imagesArray = dataArray.map((image) => {
@@ -19,7 +18,6 @@ async function loadImages(numImages = 48) {
   titleArray = dataArray.map((desc) => {
     return desc.board.name;
   });
-
   console.log(imagesArray);
   let i = 0;
   while (i < numImages) {
@@ -29,6 +27,7 @@ async function loadImages(numImages = 48) {
 
     const img = document.createElement("img");
     img.src = imagesArray[i];
+
     divPin.appendChild(img);
 
     const desc = document.createElement("p");
@@ -37,7 +36,6 @@ async function loadImages(numImages = 48) {
     i++;
   }
 }
-
 loadImages();
 
 window.addEventListener("scroll", () => {
@@ -45,6 +43,9 @@ window.addEventListener("scroll", () => {
     window.scrollY + window.innerHeight >=
     document.documentElement.scrollHeight
   ) {
+    loadImages();
+  }
+  else {
     loadImages();
   }
 });
