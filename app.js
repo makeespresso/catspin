@@ -29,7 +29,6 @@ async function loadImages(numImages = 48) {
 
     const img = document.createElement("img");
     img.src = imagesArray[i];
-    // container.appendChild(div);
     divPin.appendChild(img);
 
     const desc = document.createElement("p");
